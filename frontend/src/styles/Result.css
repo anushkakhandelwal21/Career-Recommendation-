@@ -1,0 +1,57 @@
+.job {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+.jobHeading{
+    margin-bottom: 30px;
+    margin-top: 90px;
+}
+
+
+.dataOfJob{
+    margin-bottom: 30px;
+    margin-top: 90px;
+    margin-left: 170px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 10px;
+  }
+
+  .field {
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+.jobsdata{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #faebd7;
+    margin: 10px;
+    border-radius: 17px;
+}
+
+.jobroles{
+    font-weight: bold;
+}
+
+.test-btn {
+  background-color: #2b2b2b;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 20px;
+}
