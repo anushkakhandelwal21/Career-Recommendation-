@@ -5,10 +5,6 @@ A career recommendation system that suggests career paths based on the user's in
 
 ## Set Up
 
-Clone this repository to your local machine.
-````bash
-git clone https://github.com/SiddhantDembi/Career-Recomendation-System.git
-````
 
 Navigate to backend
 ````bash
